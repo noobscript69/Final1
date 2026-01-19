@@ -1,0 +1,8 @@
+{
+  "name": "Aetheris AI Creative Hub",
+  "description": "A high-end, multimodal AI studio featuring text generation, image creation, and real-time voice interaction powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
